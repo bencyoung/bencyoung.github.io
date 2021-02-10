@@ -17,9 +17,8 @@ title: Performance .NET and other development thoughts
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A simple developers blog
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: bencyoung
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
