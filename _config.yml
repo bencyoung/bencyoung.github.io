@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Performance .NET and other development thoughts
+title: Performant programming
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple developers blog
+  A blog for high performance, high level programming
 github_username: bencyoung
 minimal_mistakes_skin: contrast
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Ben Young"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A .NET developer and enthusiastic problem solver."
+  bio    : "Developer, architect, analyst and enthusiastic problem solver."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
